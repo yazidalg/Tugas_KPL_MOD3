@@ -14,3 +14,4 @@ C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8
 C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.pdb
 C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.genruntimeconfig.cache
 C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\ref\Tugas_KPL_AL.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.sourcelink.json

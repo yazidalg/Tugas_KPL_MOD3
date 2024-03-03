@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tugas_KPL_AL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f6282ea7a0b5bbf3264fc8cae320ee25da4df32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tugas_KPL_AL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tugas_KPL_AL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
