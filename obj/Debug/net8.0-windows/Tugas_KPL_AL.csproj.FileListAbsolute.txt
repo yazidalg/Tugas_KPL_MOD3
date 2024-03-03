@@ -1,0 +1,16 @@
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\bin\Debug\net8.0-windows\Tugas_KPL_AL.exe
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\bin\Debug\net8.0-windows\Tugas_KPL_AL.deps.json
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\bin\Debug\net8.0-windows\Tugas_KPL_AL.runtimeconfig.json
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\bin\Debug\net8.0-windows\Tugas_KPL_AL.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\bin\Debug\net8.0-windows\Tugas_KPL_AL.pdb
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.Form1.resources
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.csproj.GenerateResource.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.AssemblyInfoInputs.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.AssemblyInfo.cs
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.csproj.CoreCompileInputs.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\refint\Tugas_KPL_AL.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.pdb
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\Tugas_KPL_AL.genruntimeconfig.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\Tugas_KPL_AL\Tugas_KPL_AL\obj\Debug\net8.0-windows\ref\Tugas_KPL_AL.dll
